@@ -1,0 +1,8 @@
+
+# Compiled executables
+*.exe
+dpi_engine
+
+# Generated PCAP output files
+output.pcap
+output_test.pcap
